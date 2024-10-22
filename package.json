@@ -32,7 +32,7 @@
     "@element-plus/icons-vue": "^2.3.1",
     "element-plus": "^2.8.6",
     "leafer-compress-text": "workspace:*",
-    "leafer-ui": "^1.0.5",
+    "leafer-ui": "^1.0.6",
     "lodash": "^4.17.21",
     "normalize.css": "^8.0.1",
     "vue": "^3.5.12"
@@ -42,7 +42,7 @@
     "@vitejs/plugin-vue": "^5.1.4",
     "eslint": "^9.13.0",
     "eslint-define-config": "^2.1.0",
-    "eslint-plugin-vue": "^9.29.0",
+    "eslint-plugin-vue": "^9.29.1",
     "jsonfile": "^6.1.0",
     "rollup-plugin-copy": "^3.5.0",
     "sass": "^1.80.3",
